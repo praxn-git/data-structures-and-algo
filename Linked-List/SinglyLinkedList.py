@@ -1,5 +1,6 @@
 # Singly Linked List implementation in Python
 
+# defines the blueprint for a single node in the linked list
 class Node:
     def __init__(self, data, ref = None):
         self.data = data
